@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:wily
 
 MAINTAINER hufeng1987@gmail.com
 
