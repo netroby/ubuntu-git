@@ -4,4 +4,4 @@ Docker files for createing package updated ubuntu images that include git and bu
 
 This is useful for using on gitlab-ci for building packages.
 
-Update 2015-09-23
+Update 2015-10-21
