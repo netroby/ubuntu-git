@@ -1,4 +1,4 @@
-FROM ubuntu:wily
+FROM ubuntu:xenail
 
 MAINTAINER hufeng1987@gmail.com
 
